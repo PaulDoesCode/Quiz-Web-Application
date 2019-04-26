@@ -1,4 +1,4 @@
-Quiz Web Application
+#Quiz Web Application
 Web application developed using HTML5, CSS3, PHP, and SQL. Additional technologies used: PHPMyAdmin, MySQL, Apache HTTP Server, Adobe XD, Bootstrap framework. 
 
 This application was developed as part of a group project.
