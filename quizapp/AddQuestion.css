@@ -1,0 +1,154 @@
+.navbar	{
+    margin-bottom: 0;
+}
+
+body    {
+    overflow: hidden;
+}
+
+#fdmlogo	{
+    height: 60px;
+    width: 150px;
+    margin-left: -40px;
+}
+
+.jumbotron	{
+    min-height: 900px !important;
+    background-image: url("jumbotron_background.jpg");
+    background-size: cover;
+}
+
+.usersection    {
+    height: 725px;
+    width: 1110px;
+    background-color: #212529;
+    margin-bottom: 50px;
+    margin: 0 auto;
+}
+
+#usersectionicon    {
+    position: relative;
+    font-size: 75px;
+    top: 20px;
+    left: 50px;
+    color: #FFFFFF;
+}
+
+.usersection form   {
+    position: relative;
+    top: -100px;
+    padding-bottom: 20px;
+    padding-right: 45px;
+    text-align: center;
+    margin: 0 auto;
+    color: #FFFFFF;
+}
+
+#usersectionheading {
+    position: relative;
+    top: 20px;
+    left: 35px;
+    color: #FFFFFF;
+}
+
+button  {
+    background-color: #FFFFFF;
+    border: none;
+    color: #212529;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    width: 190px;
+}
+
+label   {
+    display: flex;
+    float: left;
+    clear: left;
+    width: 250px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+
+input {
+    background-color: #FFFFFF;
+    border: none;
+    color: #212529;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+    float: left;
+    margin-bottom: 20px;
+}
+
+select  {
+    background-color: #FFFFFF;
+    border: none;
+    color: #212529;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    width: 246px;
+}
+
+form    {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 50px;
+}
+
+button  {
+    width: 206.667px;
+}
+
+.fa {
+    font-size: 100px;
+}
+
+.newquestionform   {
+    position: relative;
+    bottom: 40px;
+    right: 60px;
+}
+
+.previousbutton {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #212529;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    width: 190px;
+    position: relative;
+    right: 50px;
+}
+
+.returnbutton  {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #212529;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    width: 190px;
+    position: relative;
+    bottom: 107px;
+    left: 150px;
+}
+

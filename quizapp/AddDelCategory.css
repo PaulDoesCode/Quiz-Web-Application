@@ -1,0 +1,133 @@
+.navbar	{
+    margin-bottom: 0;
+}
+
+body    {
+    overflow: hidden;
+}
+
+#fdmlogo	{
+    height: 60px;
+    width: 150px;
+    margin-left: -40px;
+}
+
+.jumbotron	{
+    min-height: 900px !important;
+    background-image: url("jumbotron_background.jpg");
+    background-size: cover;
+}
+
+.usersection    {
+    height: 200px;
+    width: 1000px;
+    background-color: #212529;
+    margin-bottom: 50px;
+    margin: 0 auto;
+}
+
+#usersectionicon    {
+    position: relative;
+    font-size: 75px;
+    top: 20px;
+    left: 50px;
+    color: #FFFFFF;
+}
+
+.usersection form   {
+    position: relative;
+    top: -100px;
+    padding-bottom: 20px;
+    padding-right: 45px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#usersectionheading {
+    position: relative;
+    top: 20px;
+    left: 35px;
+    color: white;
+}
+
+select  {
+    padding: 5px 10px;
+}
+
+button  {
+    background-color: #FFFFFF;
+    border: none;
+    color: #212529;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    width: 190px;
+}
+
+input {
+    background-color: #FFFFFF;
+    border: none;
+    color: #212529;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    width: 190px;
+    position: relative;
+    right: 36px;
+}
+
+select  {
+    background-color: #FFFFFF;
+    border: none;
+    color: #212529;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    width: 190px;
+    position: relative;
+    right: 36px;
+}
+
+.fa {
+    font-size: 100px;
+}
+
+.returnbutton  {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #212529;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    width: 190px;
+    position: relative;
+    left: 150px;
+    right: 200px;
+    bottom: 107px;
+}
+
+.previousbutton {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #212529;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    width: 190px;
+    position: relative;
+    right: 90px;
+}

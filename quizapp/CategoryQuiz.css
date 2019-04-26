@@ -1,0 +1,82 @@
+.navbar	{
+    margin-bottom: 0;
+}
+
+body    {
+    background-image: url(jumbotron_background.jpg);
+}
+
+#fdmlogo	{
+    height: 60px;
+    width: 150px;
+    margin-left: -40px;
+}
+
+.gridwrapper	{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.fa {
+    font-size: 100px;
+}
+
+.question   {
+    font-weight: bold;
+}
+
+.card   {
+    width: 70em;
+    margin: auto;
+    margin-top: 50px;
+}
+
+input[type="submit"]  {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #212529;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    width: 190px;
+}
+
+input[type="radio"] {
+    margin-right: 20px;
+}
+
+.table  {
+    width:70em;
+    margin: 0 auto;
+    box-shadow:10px 10px 5px #888;
+}
+
+.quizresult {
+    height: 200px;
+    width: 50%;
+    background-color: #212529;
+    margin: 0 auto;
+    margin-top: 50px;
+    color: #FFFFFF;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.quizresulttext {
+    position: relative;
+    bottom: 20px;
+    height: 4px;
+    margin: 0 auto;
+    display: block;
+    align-items: center;
+}
+
+.quizreturnbutton   {
+    color: #FFFFFF; !important;
+}

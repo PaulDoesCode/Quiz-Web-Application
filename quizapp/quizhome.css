@@ -1,0 +1,67 @@
+nav	{
+	color: #000000;
+}
+
+#fdmlogo	{
+	height: 60px;
+	width: 150px;
+	margin-left: -40px;
+}
+
+.jumbotron	{
+	min-height: 900px !important;
+	background-image: url("jumbotron_background.jpg");
+	background-size: cover;
+}
+
+.jumbotrontext	{
+	color: #000000;
+	font-size: 20px;
+}
+
+.navbar	{
+	margin-bottom: 0;
+}
+
+.gridwrapper	{
+	text-align: center;
+}
+
+body	{
+	overflow: hidden;
+}
+
+label	{
+	display: inline-block;
+	float: left;
+	clear: left;
+	width: 250px;
+	text-align: left;
+}
+
+input	{
+	display: inline-block;
+	float: left;
+}
+
+.btn-primary 	{
+	color: #000000;
+	background-color: transparent;
+	border-color: #000000;
+	margin-bottom: 5px;
+	font-size: 20px;
+	width: 10%;
+	height: 50px;
+}
+
+.btn-primary:hover 	{
+	color: #FFFFFF;
+	background-color: black;
+	border-color: black;
+}
+
+.btn-primary:active{
+	color: #FFFFFF;
+	background-color: #000000;
+	border-color: #000000;
+}
