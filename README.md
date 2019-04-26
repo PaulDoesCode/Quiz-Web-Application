@@ -1,7 +1,9 @@
-# Quiz-Web-Application
+Quiz Web Application
 Web application developed using HTML5, CSS3, PHP, and SQL. Additional technologies used: PHPMyAdmin, MySQL, Apache HTTP Server, Adobe XD, Bootstrap framework. 
 
 This application was developed as part of a group project.
+
+Initially, Google Drive was used to share files between group members and this project was worked on from February 2019 through to April 2019. The project is available on GitHub as of 27/04/2019.
 
 ip2.sql must be imported into an appropriate RDBMS.
 
